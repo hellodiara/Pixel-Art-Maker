@@ -1,4 +1,16 @@
 # Pixel-Art-Maker
 HTML, CSS, Javascript- Web app that allows user to create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
 
+## HTML skills
+* adding a class to an element
+## CSS skills
+* changing the background color of an element
+## JavaScript skills
+* using variables to store data
+* write functions
+* use loops to loop over data
+## DOM skills
+* dynamically adding elements
+* write event listeners
+
 https://hellodiara.github.io/Pixel-Art-Maker/
